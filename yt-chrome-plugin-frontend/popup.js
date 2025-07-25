@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", async () => {
   const outputDiv = document.getElementById("output");
-  const API_KEY = 'AIzaSyDT_bmK_NyMY0wiyPz-i6Lr4-xKECS9GtM';  // Paste with your actual YouTube Data API key from GCP
+  const API_KEY = 'AIzaSyDT_bmK_NyMY0wiyPz-i6Lr4-xKECS9GtM';  // YouTube Data API key from GCP
   // const API_URL = 'http://my-elb-2062136355.us-east-1.elb.amazonaws.com:80';   
   //   const API_URL = 'http://23.20.221.231:8080/';
   const API_URL = 'http://localhost:5001/';
