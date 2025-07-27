@@ -64,7 +64,7 @@ export YOUTUBE_API_KEY="your-api-key-here"
 
 The Flask API can be tested using Postman or curl:
 
-![alt text](<postman ss-1.png>)
+![alt text](<postman ss.png>)
 
 **Endpoint**: `POST http://localhost:5001/predict`
 
